@@ -1,4 +1,4 @@
-as_of_date,region,covid_hosp,covid_icu,covid_intube,yearid,covid_hosp_pop,date_num,Date
+as_of_date,region_orig,covid_hosp,covid_icu,covid_intube,yearid,covid_hosp_pop,date_num,Date
 2020-03-26,Long Island,1082,303,263,2020,37.033,86,"3/26/20<br>Daily count: 1,082"
 2020-03-26,Lower Hudson Valley,483,123,110,2020,22.595,86,3/26/20<br>Daily count: 483
 2020-03-26,New York City,4733,1084,956,2020,53.758,86,"3/26/20<br>Daily count: 4,733"
